@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Varela+Round&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 65%;
+  font-family: "Varela Round", Roboto, sans-serif;
+  scroll-behavior: smooth;
+}
+
+#main-container {
+  width: 55vw;
+  margin: 0 auto;
+}
+

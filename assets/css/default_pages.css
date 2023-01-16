@@ -1,0 +1,12 @@
+
+#main-container {
+  width: 75vw;
+  margin: 0 auto;
+}
+
+.yellow-text {
+  color: #ffd000;
+}
+.bold {
+  font-weight: bold;
+}
